@@ -83,6 +83,9 @@ The opening mine is running in Unreal Engine 5.8.2. These captures come from a l
 <p align="center"><img src="assets/demo/finite-mine-opening.png" width="100%" alt="Live first-person view of the Civilian 66 finite mine opening, with the laser miner, excavation HUD, field pack, landing site, and underground tunnel" /></p>
 <p align="center"><em>Finite mine opening. The HUD reports Act I, Tunnel Crust, depth, excavations, and field-pack capacity.</em></p>
 
+<p align="center"><img src="assets/demo/current-oct25.gif" width="100%" alt="Six-second gameplay clip from the October 25, 2026 Unreal preview, showing first-person movement and laser miner use in the underground mine" /></p>
+<p align="center"><em>October 25, 2026 gameplay capture. A short view of first-person movement and laser miner use in the opening mine.</em></p>
+
 <p align="center"><img src="assets/demo/core-terminal-processing.png" width="100%" alt="Live first-person view at the Civilian 66 core terminal, with stored copper and refined ingot counts visible in the underground mine" /></p>
 <p align="center"><em>Core terminal interaction range. The live HUD shows stored copper, refined ingots, and the ore-per-ingot ratio.</em></p>
 
