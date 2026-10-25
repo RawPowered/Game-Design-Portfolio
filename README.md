@@ -76,6 +76,18 @@ I am looking for **Associate Game Designer**, **Gameplay Systems Designer**, **P
 </tr>
 </table>
 
+### Early Unreal playable preview
+
+The opening mine is running in Unreal Engine 5.8.2. These captures come from a live Play In Editor session and show the underground arrival pocket, first-person laser miner, exploration HUD, and resource state at the core terminal.
+
+<p align="center"><img src="assets/demo/finite-mine-opening.png" width="100%" alt="Live first-person view of the Civilian 66 finite mine opening, with the laser miner, excavation HUD, field pack, landing site, and underground tunnel" /></p>
+<p align="center"><em>Finite mine opening. The HUD reports Act I, Tunnel Crust, depth, excavations, and field-pack capacity.</em></p>
+
+<p align="center"><img src="assets/demo/core-terminal-processing.png" width="100%" alt="Live first-person view at the Civilian 66 core terminal, with stored copper and refined ingot counts visible in the underground mine" /></p>
+<p align="center"><em>Core terminal interaction range. The live HUD shows stored copper, refined ingots, and the ore-per-ingot ratio.</em></p>
+
+<p align="center"><a href="case-studies/early-unreal-playable-preview.md"><strong>What this playable preview demonstrates and what remains in development →</strong></a></p>
+
 ## Civilian 66 in one minute
 
 *Civilian 66* begins as a survival and settlement game beneath the surface. The player mines, fights, builds, trades, and reconstructs a five-part drill to break through. The surface opens a new layer of exploration and first contact. Meeting Clarissa is when the player earns a personal name. Later, the Subvergence brings magic into the changed world, while the colony continues growing toward its first message to Earth: **"Hello World."**
