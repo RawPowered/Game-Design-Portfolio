@@ -17,6 +17,7 @@ Independent game designer with a systems and operations background. Designs conn
 - Connected player-facing goals to prerequisites, system ownership, implementation notes, and validation criteria.
 - Maintained a versioned design authority and tracked locked direction, open design decisions, implementation candidates, and verified evidence separately.
 - Worked in an Unreal Engine C++ project and prepared a public overview of the code-set architecture, art direction, and credited resources.
+- Presented the documented character lineup and explored a Bloopi plush range from the species' established size classes, while keeping open measurements and product details explicit.
 
 **Project status:** independent project in development. The public showcase is not a playable game build. See the [design case studies](README.md#selected-design-work) and [public project overview](https://github.com/RawPowered/Civilian66-Public).
 

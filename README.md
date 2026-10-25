@@ -90,6 +90,40 @@ The game direction treats the settlement as part of campaign progression. What t
 <p align="center"><img src="assets/civilian66-hero-design.png" width="86%" alt="Civilian 66 character production concept showing armor, equipment, and movement references" /></p>
 <p align="center"><em>Main character production concept. Art direction reference, not final in-game footage.</em></p>
 
+## Character art and merchandise direction
+
+<p align="center"><img src="assets/civilian66-character-lineup.png" alt="Civilian 66, Clarissa, Bruce, and the Commander in a lineup study" width="100%" /></p>
+<p align="center"><em>Generated lineup study based on four Bible v1.10 character dossiers. It is a visual comparison, not a final measured scale sheet.</em></p>
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top" bgcolor="#111820"><strong>Civilian 66</strong><br /><img src="assets/characters/civilian66.png" width="250" alt="Civilian 66 in sealed expedition armor with a laser miner" /></td>
+<td width="50%" align="center" valign="top" bgcolor="#111820"><strong>Clarissa</strong><br /><img src="assets/characters/clarissa.png" width="250" alt="Clarissa in practical surface-survival clothing with her pack and helmet" /></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top" bgcolor="#111820"><strong>Bruce</strong><br /><img src="assets/characters/bruce.png" width="250" alt="Bruce in merchant clothing with sunglasses and field supplies" /></td>
+<td width="50%" align="center" valign="top" bgcolor="#111820"><strong>The Commander</strong><br /><img src="assets/characters/commander.png" width="250" alt="The Commander in a weathered expedition coat and tactical field gear" /></td>
+</tr>
+</table>
+
+**Height references:** Civilian 66 is approximately 180 cm. The Bible does not set heights for Clarissa, Bruce, or the Commander. Bloopis average about 20 cm, with five documented in-world size variants from 5 to 45 cm.
+
+### Bloopi visual reference
+
+The current species sheet establishes the Bloopi silhouette, expressions, color range, and in-world sizes. It contains creature art, but I found no prior plush concept or product specification in the project files reviewed.
+
+<p align="center"><img src="assets/bloopi-species-reference.png" alt="Civilian 66 Bloopi species concept sheet with turnaround, appendage, expression, movement, and size references" width="100%" /></p>
+<p align="center"><em>Selected species reference from the current visual direction.</em></p>
+
+### Proposed Bloopi plush line
+
+This new product exploration carries the five in-world size classes into a plush range and adds a white companion edition. The image is a concept, not a finalized product design.
+
+<p align="center"><img src="assets/bloopi-plush-line-concept.png" alt="Concept image for five blue Bloopi plush sizes and a white companion edition" width="100%" /></p>
+<p align="center"><em>Generated merchandise concept art. Product details remain open.</em></p>
+
+[Character artwork, scale notes, and plush line concept](case-studies/characters-and-merchandising.md)
+
 ## Transferable experience
 
 Before focusing this portfolio on game design, I worked across business systems, CRM administration, integrations, automation, web interfaces, and operational support. That work taught me to ask how a system behaves for the person using it, where information can break, what teams need from a handoff, and how to distinguish a working result from an assumption.
